@@ -2,7 +2,7 @@
   "name": "konto-backend",
   "version": "1.0.0",
   "description": "Konto controle de vendas",
-  "main": "index.js",
+  "main": "src/server.js",
   "repository": "https://github.com/EzequielGnich/Konto",
   "author": "Ezequiel Gnich",
   "license": "MIT",
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "dotenv": "^8.1.0",
     "express": "^4.17.1",
     "mongoose": "^5.6.10",
     "pm2": "^3.5.1"
