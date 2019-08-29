@@ -1,4 +1,4 @@
-const user = require("../models/User");
+const user = require("../models/UserSchema");
 
 module.exports = {
   async index(req, res) {
